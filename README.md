@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm a Front-End Developer
 
-<!--
-**MahadRazaKhan/MahadRazaKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here’s a bit about me:
 
-Here are some ideas to get you started:
+### 🛠 What I Do
+- Build visually appealing, user-friendly websites.
+- Ensure responsive designs that work seamlessly across different devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Highlights
+- Contributed to projects that have delighted users with smooth functionality and engaging designs.
+
+### 🚀 Skills & Tools
+- **Languages & Frameworks**:  
+  - HTML5, CSS3, Bootstrap 5.3, JavaScript (ES6), Java (JDK-17), Python (3.8)
+- **Content Management**:
+  - WordPress (6.5.5)
+
+### 💡 What I’m Interested In
+- Exploring new web technologies and staying updated on the latest industry trends.
+
+### 🎯 Goals
+- Looking forward to collaborating on exciting projects and continuing my journey in web development.
+- Ready for new challenges and tech adventures!
+
+---
+
+### Let’s Connect!
+If you’re interested in working together or have a project idea, feel free to reach out! 🚀
+
