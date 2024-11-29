@@ -1,5 +1,7 @@
 # Hi there!👋 | Mahad Raza Khan | Developer
 
+![Mahad's Image](IMG_20240408_125102995~2.jpg)
+
 
 Welcome to my GitHub! Here’s a bit about me:
 
