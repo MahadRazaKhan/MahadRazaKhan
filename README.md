@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! Here’s a bit about me:
 
-### 🛠 What I Do
+### What I Do
 - Build visually appealing, user-friendly websites.
 - Ensure responsive designs that work seamlessly across different devices.
 
