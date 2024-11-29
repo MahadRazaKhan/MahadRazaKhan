@@ -6,10 +6,10 @@ Welcome to my GitHub! Here’s a bit about me:
 - Build visually appealing, user-friendly websites.
 - Ensure responsive designs that work seamlessly across different devices.
 
-### ⚡ Highlights
+### Highlights
 - Contributed to projects that have delighted users with smooth functionality and engaging designs.
 
-### 🚀 Skills & Tools
+### Skills & Tools
 #### Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -34,10 +34,10 @@ Welcome to my GitHub! Here’s a bit about me:
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### 💡 What I’m Interested In
+### What I’m Interested In
 - Exploring new web technologies and staying updated on the latest industry trends.
 
-### 🎯 Goals
+### Goals
 - Looking forward to collaborating on exciting projects and continuing my journey in web development.
 - Ready for new challenges and tech adventures!
 
