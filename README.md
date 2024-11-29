@@ -1,6 +1,6 @@
 # Hi there!👋 | Mahad Raza Khan | Developer
 
-![Mahad's Image](IMG_20240408_125102995~2.jpg)
+![Developer Gif](https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif)
 
 
 Welcome to my GitHub! Here’s a bit about me:
