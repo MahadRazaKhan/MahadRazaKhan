@@ -42,6 +42,7 @@ Welcome to my GitHub! Here’s a bit about me:
 
 ### Goals
 - Looking forward to collaborating on exciting projects and continuing my journey in web development.
+
 - Ready for new challenges and tech adventures!
 
 ---
@@ -50,3 +51,35 @@ Welcome to my GitHub! Here’s a bit about me:
 If you’re interested in working together or have a project idea, feel free to reach out! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahad-raza-khan-909693263/)
+
+---
+
+# Web Developer
+# JavaScript
+# Python
+# HTML5
+# CSS3
+# Web Development
+# Responsive Design
+# Ecommerce Development
+# GitHub
+# Open Source
+# API Integration
+# Tech Stack
+# Web Applications
+# Mobile First
+# Frontend Development
+# Web Design
+# UI/UX
+# Git
+# NPM
+# Webpack
+# Web Dev Community
+# Code Newbie
+# Learning To Code
+# Developer Life
+# Coding Life
+
+
+
+
