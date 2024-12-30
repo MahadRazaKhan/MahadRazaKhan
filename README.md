@@ -55,6 +55,47 @@ Welcome to my GitHub! Here’s a bit about me:
 - Ready for new challenges and tech adventures!
 
 ---
+# Programming Language Usage
+
+This repository provides analytics of programming languages used in all repositories of **MahadRazaKhan**.
+
+---
+
+## **Language Usage Table**
+
+| Language    | Percentage |
+|-------------|------------|
+| Python      | 40.5%      |
+| JavaScript  | 35.0%      |
+| HTML        | 15.0%      |
+| CSS         | 9.5%       |
+
+---
+
+## **Language Usage Chart**
+
+Below is a pie chart representing the usage of different programming languages:
+
+![Language Usage Chart](./language-usage-chart.png)
+
+---
+
+## **How This Data Was Generated**
+
+1. The data was fetched using the [GitHub API](https://docs.github.com/en/rest).
+2. The percentages were calculated based on the byte count of code in each language across all repositories.
+3. The chart was created using [Chart.js](https://www.chartjs.org/) and exported as an image.
+
+---
+
+## **Generate Analytics Yourself**
+
+To generate your own analytics, follow these steps:
+1. Clone this repository.
+2. Install dependencies (e.g., Python, `requests`, `matplotlib`).
+3. Use the provided script to analyze repositories.
+
+---
 
 ### Let’s Connect!
 If you’re interested in working together or have a project idea, feel free to reach out! 🚀
