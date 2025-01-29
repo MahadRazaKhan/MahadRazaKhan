@@ -44,6 +44,8 @@ Welcome to my GitHub! Here’s a bit about me:
 #### Favorite Tools
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="PHPMyAdmin" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
 </p>
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
